@@ -19,7 +19,6 @@ Add A to B:
 
 ```yml
 steps:
-  # from tag (may be v-prefixed)
   - name: Sum up
     id: sum
     uses: your-scope/github-action@v1
