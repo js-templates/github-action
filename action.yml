@@ -1,5 +1,5 @@
 name: 'Github Action'
-description: 'Github Action Description'
+description: 'Your Github Action Description'
 
 inputs:
   a:
