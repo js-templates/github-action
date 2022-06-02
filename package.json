@@ -1,7 +1,7 @@
 {
-  "name": "@your-scope/github-action",
+  "name": "@js-templates/github-action",
   "version": "0.0.0-set-by-ci",
-  "description": "Github Action Description",
+  "description": "Your Github Action Description",
   "author": "Your Name",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
@@ -10,7 +10,7 @@
   "files": [
     "dist/*"
   ],
-  "repository": "git@github.com:your-scope/github-action.git",
+  "repository": "git@github.com:js-templates/github-action.git",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

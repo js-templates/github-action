@@ -21,7 +21,7 @@ Add A to B:
 steps:
   - name: Sum up
     id: sum
-    uses: your-scope/github-action@v1
+    uses: js-templates/github-action@v1
     with:
       a: 2
       b: 2
@@ -88,9 +88,9 @@ Then, the `update-major-tag` workflow sets an additional tag for your major vers
 
 ### Replace everything
 
-1. Replace all `your-scope/github-action` entries with your full action name
+1. Replace all `js-templates/github-action` entries with your full action name
 2. Replace all `github-action` entries with your action name
-3. Replace all `Github Action Description` entries with your action description
+3. Replace all `Your Github Action Description` entries with your action description
 4. Replace all `Your Name` entries with your name
 
 ### Add secrets
